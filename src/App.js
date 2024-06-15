@@ -3,7 +3,7 @@ import Navbar from './Components/Navbar/Navbar';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import { Product } from './Pages/Product';
 import { ShopCategory } from './Pages/ShopCategory';
-import { Cart } from './Pages/Cart';
+import  Cart  from './Pages/Cart';
 import  Home  from './Pages/Home';
 import Footer from './Components/Footer/Footer';
 import Electronicsban from './Components/Assets/eleban.png'
