@@ -1,0 +1,19 @@
+.cart{
+    align-items: center;
+   
+   height: 80vh;
+   background: linear-gradient(180deg,#F6F5F1,#908F8D 60%);
+
+    
+
+}
+table{
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+.abc{
+    margin-left: 400px;
+    border-radius: 10px;
+}
